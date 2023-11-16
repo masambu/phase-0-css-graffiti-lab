@@ -1,1 +1,29 @@
-/* write your override styles here */
+/* overide for tag1*/
+#wall .tag-1 {
+    display: none;
+  }
+/* overide for tag2*/  
+  #wall #tag-2 {
+    display: none;
+  }
+/* overide for tag3*/  
+  #wall #tag-3 {
+    display: none;
+  }
+/* overide for tag4*/  
+  #wall #tag-4 {
+    display: none;
+  }
+/* overide for tag5*/  
+  #wall #tag-5 {
+    display: none;
+  }
+/* overide for tag6*/  
+  #wall #tag-6 {
+    display: none;
+  }
+/* overide for tag7*/  
+  #wall #tag-7 {
+    display: none;
+  }
+  
